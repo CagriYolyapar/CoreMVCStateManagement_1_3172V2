@@ -1,0 +1,9 @@
+1 => Client Side SM
+
+Cookie
+
+Cache
+
+
+
+2 => Server Side SM(State Management)
