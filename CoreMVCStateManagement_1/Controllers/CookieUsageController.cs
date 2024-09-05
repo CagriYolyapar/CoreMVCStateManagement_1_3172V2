@@ -4,6 +4,7 @@ namespace CoreMVCStateManagement_1.Controllers
 {
     public class CookieUsageController : Controller
     {
+        //Test
 
         void SetCookie()
         {
